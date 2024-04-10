@@ -22,4 +22,4 @@ All code is located in the root directory.
 
 `utils.py` contains utility format conversion and hash functions.
 
-The data files that can be used as inputs are also locateed in the root directory.
+The data files that can be used as inputs are also located in the root directory.
